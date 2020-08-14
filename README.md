@@ -47,7 +47,8 @@
 
 ---
 
-<img align="left" alt="andres-sumihe Github Stats" src="https://github-readme-stats.vercel.app/api?username=andres-sumihe&show_icons=true&hide_border=true" />
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=andres-sumihe&show_icons=true&hide_border=true" />
+
 
 [website]: https://codemaster.my.id
 [twitter]: https://twitter.com/aku_andres
