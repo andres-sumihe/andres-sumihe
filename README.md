@@ -3,7 +3,7 @@
 ## I'm a Student and Freelance Developer!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for a Friend 😁😁
-- 🥅 2020 Goals: Make powerfull learning website with MERN stack
+- 🥅 2020 Goals: Make powerfull web application with MERN stack
 
 
 ### Connect with me:
