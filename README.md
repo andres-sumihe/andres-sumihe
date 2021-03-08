@@ -3,7 +3,7 @@
 ## I'm a Student and Freelance Developer!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for a Friend 😁😁
-- 🥅 2020 Goals: Make powerfull web application with MERN stack
+- 🥅 2021 Goals: Make powerfull web application with MEVN stack
 
 
 ### Connect with me:
@@ -52,5 +52,5 @@
 
 [website]: https://codemaster.my.id
 [twitter]: https://twitter.com/aku_andres
-[youtube]: https://youtube.com/AndresSumihe
+[youtube]: https://www.youtube.com/channel/UCT5UWTlSy0Swqo3WoG5-DWg
 [instagram]: https://instagram.com/andres_sumihe
