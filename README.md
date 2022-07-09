@@ -36,7 +36,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [How To Config FreePBX for VoIP (Simple Configuration)](https://www.youtube.com/watch?v=Oo2H0Na3CMw)
+- [How To Config FreePBX for VoIP &lpar;Simple Configuration&rpar;](https://www.youtube.com/watch?v=Oo2H0Na3CMw)
 - [TR TTS Teknologi Jaringan C - FTI UKSW](https://www.youtube.com/watch?v=vYU9u5b73T0)
 - [Tugas Rancang 2 - Cara Membuat Antena Kaleng](https://www.youtube.com/watch?v=dRr2INrcpFM)
 - [TR Tekjar 1 - 672018136](https://www.youtube.com/watch?v=paF3anrojUM)
