@@ -1,9 +1,9 @@
 ### Hi there, I'm Andres - aka [andflow][website] 👋
 
-## I'm a Student and Freelance Developer!
+## I'm a IT Specialist at Bank
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for a Friend 😁😁
-- 🥅 2022 Goals: Make powerfull mobile application with Flutter
+- 🥅 2023 Goals: Mastering Flutter 3 and became fullstack mobile developer
 
 
 ### Connect with me:
