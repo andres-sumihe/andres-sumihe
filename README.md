@@ -1,14 +1,14 @@
 ### Hi there, I'm Andres - aka [andflow][website] 👋
 
-## I'm a IT Specialist at Bank
+## I'm an IT Specialist at Bank Central Asia
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for a Friend 😁😁
-- 🥅 2023 Goals: Mastering Flutter 3 and became fullstack mobile developer
+- 🥅 2024 Goals: Mastering Flutter 3 and becoming fullstack mobile developer
 
 
 ### Connect with me:
 
-[<img align="left" alt="codemaster.my.id" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="andres-sumihe | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="andres-sumihe | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="andres-sumihe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="andres-sumihe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -49,7 +49,7 @@
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=andres-sumihe&show_icons=true&hide_border=true" />
 
 
-[website]: https://codemaster.my.id
-[twitter]: https://twitter.com/aku_andres
+[website]: https://andressumihe.netlify.app
+[twitter]: https://twitter.com/andfr_s
 [youtube]: https://www.youtube.com/channel/UCT5UWTlSy0Swqo3WoG5-DWg
 [instagram]: https://instagram.com/andres_sumihe
