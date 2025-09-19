@@ -54,7 +54,6 @@
 <p>
   <img height="170" src="https://andres-github-stats.vercel.app/api?username=andres-sumihe&show_icons=true&hide_border=true&theme=dracula" alt="GitHub Stats" />
   <img height="170" src="https://andres-github-stats.vercel.app/api/top-langs/?username=andres-sumihe&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&hide=html,css,scss,blade" alt="Top Languages" />
-  <img height="170" src="https://streak-stats.demolab.com?user=andres-sumihe&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
