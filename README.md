@@ -3,8 +3,10 @@
 ## I'm an IT Specialist at Bank Central Asia
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for a Friend 😁😁
-- 🥅 2025 Goals: Mastering Flutter and becoming fullstack mobile developer
-
+- 🥅 2026 Goals:
+  - Mastering Flutter and becoming a full-stack mobile developer
+  - Mastering FastAPI
+  - Develop a LifeOS system powered by AI
 
 ### 🌐 Connect with me:
 
